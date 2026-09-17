@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f74db02aff984624cb537d2f18fa5224, type: 3}
+  m_Name: PlayerSkin001
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerSkinData
+  animatorController: {fileID: 22100000, guid: 17f0becf2ea002041888f2cf0301faaf, type: 2}
+  textMaterial: {fileID: 2100000, guid: a78f2ef81a12d7f468bda73b7501a108, type: 2}
+  color: {r: 0, g: 0.79831934, b: 1, a: 1}
+  accentColor: {r: 0.98823535, g: 0.5058824, b: 0.9294118, a: 1}
+  isRecolor: 0
